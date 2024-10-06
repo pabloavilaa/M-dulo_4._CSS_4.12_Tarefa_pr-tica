@@ -1,0 +1,36 @@
+body{
+    background-color: #F5F5DC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header li {
+    font-size: 20px;
+}
+
+h1 {
+    color: navy; font-size: 60px;
+}
+
+.sports {
+    color: green; font-size: 30px;
+
+}
+
+.economy {
+    color: goldenrod;
+    
+}
+
+.entertainment {
+    color: orangered;
+}
+
+.technology {
+    color: darkblue;
+}
